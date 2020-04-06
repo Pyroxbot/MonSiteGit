@@ -29,6 +29,17 @@
      </div>
     <button type="submit" class="btn btn-dark">go!</button>
  </form>
+
+ <hr class="col-md-6 mx-auto bg-secondary">
+
+ <h5 class="font-italic text-center mt-3"></h5>
+
+ <ul class="list-group">
+     <li class="list-group-item">ko</li>
+     <li class="list-group-item">wa</li>
+     <li class="list-group-item">bun</li>
+     <li class="list-group-item">ga</li>
+ </ul>
 </div>    
 </body>
 </html>
